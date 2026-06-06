@@ -33,13 +33,5 @@ Estructura general del Proyecto:
 
 ---------------------------
 
-Instrucciones para clonar y ejecutar el Proyecto:
-
-1. Clonar el repositorio:
-git clone https://github.com/GhostieSpoomy17/Sistema_LlanquihueTour_Sumativa1_Semana3.git
-
-2. Abrir el proyecto en IntelliJ IDEA.
-
-3. Verificar que los archivos .txt estén correctamente ubicados.
-
-4. Ejecutar el archivo Main.java desde el paquete app.
+Repositorio GitHub: https://github.com/GhostieSpoomy17/Sistema_LlanquihueTour_Sumativa1_Semana3
+Fecha de entrega: 08/06/2026
